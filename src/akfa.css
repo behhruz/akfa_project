@@ -1,0 +1,176 @@
+.calculator {
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 32px;
+  margin: 80px 0;
+  display: flex;
+  justify-content: center;
+}
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: -30px 0;
+}
+.btn1 {
+  width: 277px;
+  height: 42px;
+  margin: 0 20px;
+  border: none;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  background-color: white;
+  border-radius: 7px;
+  box-shadow: 1px 1px 7px 1px rgb(201, 200, 200);
+}
+.btn1:hover {
+  background-color: #eeeeee;
+}
+.tip {
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 20px;
+  margin-left: 10px;
+}
+.container2 {
+  margin: 80px 0 80px 150px;
+  display: flex;
+}
+.btn_1{
+  width: 82px;
+  height: 30px;
+  border: none;
+  border-radius: 5px;
+  margin-left: 20px;
+}
+.biglen{
+  display: flex;
+  align-items: center;
+}
+.too{
+  margin-left: 150px;
+}
+.linear{
+margin-left: 220px;
+}
+.akfa{
+  margin-left: -120px;
+}
+.length{
+  display: flex;
+  align-items: center;
+}
+.razmer {
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 20px;
+}
+.range{
+  transform: rotate(-90deg);
+  width: 300px;
+}
+.name{
+  margin-left: 230px;
+  font-size: 25px;
+}
+.rangee{
+  width: 350px;
+  margin-left: 65px;
+  margin-top: 20px;
+}
+.btn2 {
+  width: 140px;
+  height: 30px;
+  border: none;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  background-color: white;
+  border-radius: 7px;
+  box-shadow: 1px 1px 7px 1px rgb(201, 200, 200);
+  margin: 0 10px;
+}
+.btn2:hover {
+  background-color: #eeeeee;
+}
+.icons {
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  margin: 30px 0;
+}
+.icon {
+  margin-left: 5px;
+  margin-top: 3px;
+}
+.grad{
+  display: flex;
+  align-items: center;
+  margin-left: -110px;
+  margin-top: 40px;
+}
+.window {
+  width: 150px;
+  height: 75px;
+  margin: -10px 20px;
+  margin-left: 10px;
+  margin-bottom: 20px;
+  
+}
+.box {
+  margin-left: 74px;
+}
+
+.check {
+  display: flex;
+  align-items: center;
+  padding: 0 10px;
+  margin-bottom: 20px;
+}
+.checkk {
+  display: flex;
+  align-items: center;
+  padding: 0 10px;
+  margin-top: -10px;
+}
+.panel {
+  margin: 0 10px;
+}
+p {
+  cursor: pointer;
+}
+input {
+  cursor: pointer;
+}
+h1 {
+  cursor: pointer;
+}
+button {
+  cursor: pointer;
+}
+.checkm {
+  flex-direction: column;
+}
+.box2 {
+  display: flex;
+}
+.div1 {
+  display: flex;
+  margin-left: 7px;
+}
+.minibox1 {
+  margin-left: 30px;
+  margin-top: 10px;
+}
+.minibox {
+  margin-top: 10px;
+}
+
+.blur{
+  position:relative ;
+  background-color: red;
+}
